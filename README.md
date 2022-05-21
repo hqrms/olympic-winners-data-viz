@@ -5,7 +5,9 @@
 
 This repository contains the python codes used to generate the visualization of the sample data, displayed on [ag-grid]. The libraries used in this project are referenced on the dependencies topic and the language is Python.
 
-To run and see the visualizations you can use the Jupyter Notebook or run the python code locally
+To run and see the visualizations you can use the Jupyter Notebook or run the python code locally.
+
+The JSON code can be found on https://www.ag-grid.com/example-assets/olympic-winners.json
 
 ## Why Plotly?
 
